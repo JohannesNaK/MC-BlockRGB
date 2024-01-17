@@ -1,0 +1,4 @@
+name: blockrgb
+version: '${project.version}'
+main: me.johannesk.blockrgb.BlockRGB
+api-version: '1.20'
