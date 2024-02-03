@@ -2,3 +2,9 @@ name: blockrgb
 version: '${project.version}'
 main: me.johannesk.blockrgb.BlockRGB
 api-version: '1.20'
+
+
+commands:
+  analyze:
+    usage: "/analyze <directory path>"
+    description: "Command to analyze minecraft blocks"
